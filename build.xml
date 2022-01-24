@@ -7,6 +7,6 @@
 <!-- <javac srcdir="./src" destdir="staging"/> -->
 </target>
 <target name="compile"  >
- <javac includeantruntime="false" srcdir="./src" destdir="staging"/> for all java developers
+ <javac includeantruntime="false" srcdir="./src" destdir="staging"/> for all java developers in github
 </target>
 </project>
